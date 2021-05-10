@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/iangtu23/day1#readme",
   "dependencies": {
-    "osc-js": "^2.1.2"
+    "g-i-s": "^2.1.6",
+    "node-osc": "^6.0.1"
   }
 }
